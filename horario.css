@@ -1,0 +1,59 @@
+
+    body{
+        font-family:'Segoe UI', sans-serif;
+        background:#f4f6f9;
+        margin:0;
+        padding:30px;
+    }
+
+    .container{
+        max-width:900px;
+        margin:auto;
+        background:white;
+        padding:30px;
+        border-radius:12px;
+        box-shadow:0 4px 20px rgba(0,0,0,0.08);
+    }
+
+    h1{
+        text-align:center;
+        color:#2c3e50;
+    }
+
+    select{
+        padding:10px;
+        width:100%;
+        border-radius:6px;
+        border:1px solid #ccc;
+        margin-bottom:20px;
+        font-size:15px;
+    }
+
+    .card{
+        background:#f8f9fa;
+        padding:15px;
+        border-radius:10px;
+        margin-bottom:15px;
+    }
+
+    .grupo-title{
+        font-weight:bold;
+        margin-bottom:10px;
+    }
+
+    .fecha{
+        padding:8px;
+        margin:6px 0;
+        border-radius:6px;
+        font-size:14px;
+        color:white;
+    }
+
+    .verde{ background:#27ae60; }
+    .amarillo{ background:#f1c40f; color:#000; }
+    .rojo{ background:#e74c3c; }
+
+    .tipo{
+        font-size:12px;
+        font-weight:bold;
+    }
