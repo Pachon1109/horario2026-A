@@ -17,7 +17,7 @@ fechas:["2026-06-22"]
 materia:"Sistemas Operativos",
 grupo:"4",
 tipo:"Clase",
-horario:"2:00 pm - 5:00 pm",
+horario:"10:00 am - 13:00 pm",
 fechas:["2026-03-16","2026-03-30","2026-04-20","2026-05-04","2026-05-25","2026-06-08"]
 },
 {
@@ -45,14 +45,14 @@ fechas:["2026-06-11"]
 materia:"Gestión de Información",
 grupo:"4",
 tipo:"Clase",
-horario:"7:00 pm - 10:00 am",
+horario:"7:00 am - 10:00 am",
 fechas:["2026-03-16","2026-03-30","2026-04-20","2026-05-04","2026-05-25","2026-06-08"]
 },
 {
 materia:"Gestión de Información",
 grupo:"4",
 tipo:"Convocatoria",
-horario:"7:00 pm - 10:00 am",
+horario:"7:00 am - 10:00 am",
 fechas:["2026-06-22"]
 },
 {
